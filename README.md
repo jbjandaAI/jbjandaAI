@@ -1,4 +1,4 @@
-# Hi there, I'm James Benedict Janda 👋
+# Hi there, I'm James 👋
 
 **AI/ML Engineer | Full-Stack Software Engineer | Licensed Civil Engineer**
 
