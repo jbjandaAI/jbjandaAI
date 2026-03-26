@@ -7,7 +7,7 @@
 - **Computer Vision & AI Engineering**, focusing on automated identification and valuation systems (e.g., EOL electronics).
 
 ### 🛠 Tech Stack
-- **AI & Machine Learning:** PyTorch, OpenCV, Gemini API, Claude Code, Transformers, YOLOv11.
+- **AI & Machine Learning:** PyTorch, Tensorflow, Keras, OpenCV, Gemini API, Claude Code, Transformers, YOLOv11.
 - **Languages:** Python, TypeScript, JavaScript, SQL.
 - **Web & Backend:** FastAPI, React.js, Next.js 14, Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL.
 - **Tools & Cloud:** AWS, GCP, Docker, Vercel, Git, Gemini CLI.
