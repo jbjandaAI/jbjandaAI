@@ -16,7 +16,7 @@
 - **Master of Engineering in Artificial Intelligence** – University of the Philippines - Diliman (GWA: 1.44)
 - **Bachelor of Science in Civil Engineering** – University of the Philippines - Diliman (Licensed Civil Engineer)
 
-### 🏆 Achievements
+### 🏆 Trainings
 - **Best in Implementation (Team)** – Gemini CLI Live Build & Hackathon (Feb 2026)
 - **Participant** – Claude Code for Devs by Boost Capital (Feb 2026)
 
