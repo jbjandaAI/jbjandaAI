@@ -4,6 +4,8 @@
 
 ### 🚀 What I'm working on
 - **Founder & Full Stack Software Engineer** at [newprobiotics.ph](https://newprobiotics.ph)
+- **AfterEvent** - a way to continue the conversations through voice calls, even after a small event (30 attendees or less)
+- **Listen** - a way to listen to the people near your location
 - **Computer Vision & AI Engineering**, focusing on automated identification and valuation systems (e.g., EOL electronics).
 
 ### 🛠 Tech Stack
