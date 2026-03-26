@@ -12,7 +12,7 @@
 - **AI & Machine Learning:** PyTorch, Tensorflow, Keras, OpenCV, Gemini API, Claude Code, Transformers, YOLOv11.
 - **Languages:** Python, TypeScript, JavaScript, SQL.
 - **Web & Backend:** FastAPI, React.js, Next.js 14, Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL.
-- **Tools & Cloud:** AWS, GCP, Docker, Vercel, Git, Gemini CLI.
+- **Tools & Cloud:** AWS, GCP, Docker, Vercel, Git, Claude Code, Codex, Gemini CLI.
 
 ### 🎓 Education & Background
 - **Master of Engineering in Artificial Intelligence** – University of the Philippines - Diliman (GWA: 1.44)
