@@ -2,10 +2,8 @@
 
 **AI/ML Engineer | Full-Stack Software Engineer | Licensed Civil Engineer**
 
-I bridge the gap between complex engineering problems and intelligent software solutions. Currently, I'm focused on architecting AI-driven platforms and full-stack web applications that make a tangible impact.
-
 ### 🚀 What I'm working on
-- **Founder & Full Stack Software Engineer** at [newprobiotics.ph](https://newprobiotics.ph), building AI-integrated health and wellness solutions.
+- **Founder & Full Stack Software Engineer** at [newprobiotics.ph](https://newprobiotics.ph)
 - **Computer Vision & AI Engineering**, focusing on automated identification and valuation systems (e.g., EOL electronics).
 
 ### 🛠 Tech Stack
