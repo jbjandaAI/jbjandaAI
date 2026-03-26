@@ -20,10 +20,4 @@
 - **Best in Implementation (Team)** – Gemini CLI Live Build & Hackathon (Feb 2026)
 - **Participant** – Claude Code for Devs by Boost Capital (Feb 2026)
 
-### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/jamesbenedictjanda](https://linkedin.com/in/jamesbenedictjanda/)
-- **GitHub:** [github.com/jbjandaAI](https://github.com/jbjandaAI)
-
----
-
 *"Architecting the future with code and AI."*
