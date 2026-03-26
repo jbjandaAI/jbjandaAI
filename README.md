@@ -18,9 +18,9 @@
 - **Master of Engineering in Artificial Intelligence** – University of the Philippines - Diliman (GWA: 1.44)
 - **Bachelor of Science in Civil Engineering** – University of the Philippines - Diliman (Licensed Civil Engineer)
 
-### 🎓 Development Workflow
--- **Spec-Driven Development** - understanding the Problem first, the Specifications, Architecture, Mental model, Data model
--- **Test-Driven Development** - understanding the Tests, comprehensive tests 
+### Development Workflow
+- **Spec-Driven Development** - understanding the Problem first, the Specifications, Architecture, Mental model, Data model
+- **Test-Driven Development** - understanding the Tests, comprehensive tests 
 
 ### 🏆 Trainings
 - **Best in Implementation (Team)** – Gemini CLI Live Build & Hackathon (Feb 2026)
