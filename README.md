@@ -1,6 +1,6 @@
 # Hi there, I'm James 👋
 
-**AI/ML Engineer | Full-Stack Software Engineer | Licensed Civil Engineer**
+**Assistant Professor | AI/ML Engineer | Full-Stack Software Engineer | Licensed Civil Engineer**
 
 ### 🚀 What I'm working on
 - **newprobiotics.ph** - making sure Health comes first, then Innovation
