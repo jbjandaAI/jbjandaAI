@@ -1,6 +1,6 @@
 # Hi there, I'm James 👋
 
-**Assistant Professor | AI/ML Engineer | Full-Stack Software Engineer | Licensed Civil Engineer**
+** AI Engineer | Assistant Professor | Full-Stack Software Engineer | Licensed Civil Engineer**
 
 ### 🚀 What I'm working on
 - **newprobiotics.ph** - making sure Health comes first, then Innovation
@@ -10,8 +10,8 @@
 
 ### 🛠 Tech Stack
 - **AI & Machine Learning:** PyTorch, Tensorflow, Keras, OpenCV, Gemini API, Claude Code, Transformers, YOLOv11.
-- **Languages:** Python, TypeScript, JavaScript, SQL.
-- **Web & Backend:** FastAPI, React.js, Next.js 14, Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL.
+- **Languages:** Clojure, Python, TypeScript, JavaScript, SQL.
+- **Web & Backend:** FastAPI, Datomic, React.js, Next.js 14, Node.js, Firebase (Firestore, Auth, Functions), PostgreSQL.
 - **Tools & Cloud:** AWS, GCP, Docker, Vercel, Git, Claude Code, Codex, Gemini CLI.
 
 ### 🎓 Education & Background
@@ -20,6 +20,7 @@
 
 ### Development Workflow
 - **Spec-Driven Development** - understanding the Problem first, the Specifications, Architecture, Mental model, Data model
+- **REPL-Driven Development** - Understanding the expected behavior in a REPL, Clojure REPL or IPython (Interactive Python)
 - **Test-Driven Development** - understanding the Tests, comprehensive tests 
 
 ### 🏆 Trainings
