@@ -21,7 +21,7 @@
 ### Development Workflow
 - **Spec-Driven Development** - understanding the Problem first, the Specifications, Architecture, Mental model, Data model
 - **REPL-Driven Development** - Understanding the expected behavior in a REPL, Clojure REPL or IPython (Interactive Python)
-- **Test-Driven Development** - understanding the Tests, comprehensive tests 
+- **Test-Driven Development** - understanding the Tests, unit tests, integration tests, and end to end tests, comprehensive tests 
 
 ### 🏆 Trainings
 - **Best in Implementation (Team)** – Gemini CLI Live Build & Hackathon (Feb 2026)
